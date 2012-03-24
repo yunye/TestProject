@@ -1,0 +1,3 @@
+# a comment - this is ignored
+*.bak       # no .bak files
+temp/    # ignore all files in the temp/ directory
